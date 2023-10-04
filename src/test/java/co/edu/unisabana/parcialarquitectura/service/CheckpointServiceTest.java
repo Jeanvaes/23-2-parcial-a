@@ -17,6 +17,7 @@ public class CheckpointServiceTest {
     CheckpointRepository checkpointRepository;
 
     void Dado_checkinDTO_Cuando_checkin_Entonces_(){
-        CheckpointDTO dto = new CheckpointDTO("colo","yo", 2);
+        CheckpointDTO dto = new CheckpointDTO("colo","yo", 40);
+
     }
 }
