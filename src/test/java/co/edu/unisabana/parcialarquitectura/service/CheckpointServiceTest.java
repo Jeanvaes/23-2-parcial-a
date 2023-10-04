@@ -6,4 +6,5 @@ import org.mockito.junit.jupiter.MockitoExtension;
 @ExtendWith(MockitoExtension.class)
 public class CheckpointServiceTest {
 
+    void Dado_checkinDTO_Cuando_checkin_Entonces_(){}
 }
